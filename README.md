@@ -26,7 +26,7 @@ Nov 2021 - May 2025
 
 ## Projects
 ### MERN Stack Website - VoyageMate  
-![MERN Stack](https://i.imgur.com/cO5IXrh.gif)
+![MERN Stack]((https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/03/24/2a/train-trips_ss_003.rend.hgtvcom.616.462.suffix/1491592669668.jpeg))
 
 **Technologies:** MongoDB, Express.js, React, Node.js  
 - Designed and developed a full-stack web application using the MERN stack.
