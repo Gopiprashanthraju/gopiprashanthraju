@@ -15,14 +15,14 @@ Hyderabad, Telangana
 Nov 2021 - May 2025  
 
 **Relevant Coursework:**  
-- Data Structures and Algorithms (Java)
-- Probability & Statistics in Computer Science (Python)
-- Machine Learning
-- Data Analysis
-- SQL
-- HTML, CSS, JavaScript
-- MERN Stack
-- NumPy, Pandas
+- Data Structures and Algorithms (Java) 📊
+- Probability & Statistics in Computer Science (Python) 📈
+- Machine Learning 🤖
+- Data Analysis 📉
+- SQL 🗃️
+- HTML, CSS, JavaScript 💻
+- MERN Stack 🛠️
+- NumPy, Pandas 🐼
 
 ## Projects
 ### MERN Stack Website - VoyageMate  
@@ -55,16 +55,16 @@ Nov 2021 - May 2025
 - Implemented normalization of prices and ratings using StandardScaler to improve model performance.
 
 ## Technical Skills
-**Languages:**  
+📚 **Languages:**  
 - R, Python, Java, JavaScript, C/C++
 
-**Frameworks/Libraries:**  
+🛠️ **Frameworks/Libraries:**  
 - React.js, Express.js, Flask, Django, TensorFlow, PyTorch, jQuery, Bootstrap, Node.js, EJS, NumPy, Pandas, Matplotlib
 
-**Databases/Tools:**  
+💾 **Databases/Tools:**  
 - MySQL, MongoDB, Git
 
-**Concepts:**  
+🧠 **Concepts:**  
 - Operating System, Computer Networks, Data Structures, Algorithms, Artificial Intelligence, Machine Learning, Deep Learning, Data Analysis
 
 ## Certifications and Achievements
@@ -79,8 +79,8 @@ Nov 2021 - May 2025
 - **LeetCode (1672-Rating, 700 Problems Solved):** Achieved 1672 rating for competitive coding on LeetCode and solved over 700 problems.
 
 ## Contact
-- **Phone:** 6300545278
-- **Email:** gopiprashanthraju@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/gopiprashanthraju/)
-- **GitHub:** [GitHub Profile](https://github.com/gopiprashanthraju)
-- **LeetCode:** [LeetCode Profile](https://leetcode.com/gopiprashanthraju/)
+📞 **Phone:** 6300545278  
+📧 **Email:** gopiprashanthraju@gmail.com  
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/gopiprashanthraju/)  
+🐙 **GitHub:** [GitHub Profile](https://github.com/gopiprashanthraju)  
+💻 **LeetCode:** [LeetCode Profile](https://leetcode.com/gopiprashanthraju/)
