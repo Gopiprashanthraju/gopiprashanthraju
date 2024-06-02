@@ -26,7 +26,7 @@ Nov 2021 - May 2025
 
 ## Projects
 ### MERN Stack Website - VoyageMate  
-![MERN Stack]((https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/03/24/2a/train-trips_ss_003.rend.hgtvcom.616.462.suffix/1491592669668.jpeg))
+![MERN Stack](https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/03/24/2a/train-trips_ss_003.rend.hgtvcom.616.462.suffix/1491592669668.jpeg)
 
 **Technologies:** MongoDB, Express.js, React, Node.js  
 - Designed and developed a full-stack web application using the MERN stack.
@@ -36,7 +36,7 @@ Nov 2021 - May 2025
 - Developed a recommendation system based on previous trip data to provide personalized travel suggestions.
 
 ### Automatic Class Attendance Tkinter App  
-![Face Recognition](https://i.imgur.com/7f6p4.gif)
+![Face Recognition](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yO4jEF_aUERDnHOrD6UNXDXxSxLqLxST0g&s)
 
 **Technologies:** Python, Tkinter, Face Recognition, CSV  
 - Developed a user-friendly Tkinter application for automating class attendance tracking using a face recognition module.
@@ -46,7 +46,7 @@ Nov 2021 - May 2025
 - Stored attendance data in a CSV file and displayed it upon student login through Tkinter GUI.
 
 ### Clothing Website Data Scraping and CNN Model Development  
-![Web Scraping](https://i.imgur.com/eilDmrO.gif)
+![Web Scraping](https://img.freepik.com/free-vector/shopping-cart-with-bags-gifts-concept-illustration_114360-18775.jpg)
 
 **Technologies:** Python, Selenium, CNN, NumPy, Pandas  
 - Utilized Selenium to scrape data from a clothing website, extracting prices and ratings of various garments.
