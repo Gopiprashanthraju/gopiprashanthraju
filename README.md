@@ -1,88 +1,113 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
+<div align="justify">
 
-I'm Gopi Prashanth Raju, an enthusiastic and driven software engineering student with a passion for developing innovative solutions and working on challenging projects.
+<a href="https://www.instagram.com/rzashakeri/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@rzashakeri">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.twitter.com/rzashakeri/">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rezshakeri/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/barnamenevisiadmin/">
+<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gitlab.com/rzashakeri">
+<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gopiprashanthraju&color=blueviolet)  
-[![GitHub followers](https://img.shields.io/github/followers/gopiprashanthraju?label=Follow&style=social)](https://github.com/gopiprashanthraju)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gopiprashanthraju/)
+</div>
+<p></p>
+<p align="justify">
+Welcome to my GitHub Page. I am Reza Shakeri, a Computer Engineering student. I learn new things about programming and teach these things to others. I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+</p>
 
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+## My favorite tools and technologies ⚙️
 
-## Education
-**Chaitanya Bharathi Institute of Technology**  
-Hyderabad, Telangana  
-*Bachelor of Engineering* (GPA: 9.18 / 10)  
-Nov 2021 - May 2025  
+> Tools and technologies that I have worked with and am interested in
 
-**Relevant Coursework:**  
-- Data Structures and Algorithms (Java)
-- Probability & Statistics in Computer Science (Python)
-- Machine Learning
-- Data Analysis
-- SQL
-- HTML, CSS, JavaScript
-- MERN Stack
-- NumPy, Pandas
-
-## Projects
-### MERN Stack Website - VoyageMate  
-![MERN Stack](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
-
-**Technologies:** MongoDB, Express.js, React, Node.js  
-- Designed and developed a full-stack web application using the MERN stack.
-- Implemented user authentication and authorization using JWT (JSON Web Tokens) for secure access to features.
-- Utilized MongoDB as the database to store user information, chat logs, and other application data.
-- Added live tracking and PNR check status features to provide information about previous trips.
-- Developed a recommendation system based on previous trip data to provide personalized travel suggestions.
-
-### Automatic Class Attendance Tkinter App  
-![Face Recognition](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
-
-**Technologies:** Python, Tkinter, Face Recognition, CSV  
-- Developed a user-friendly Tkinter application for automating class attendance tracking using a face recognition module.
-- Implemented an interface for students and teachers to log in, check attendance, and update attendance records.
-- Designed functionality for faculty to view details of students and attendance records.
-- Utilized multiple angle photos for better accuracy in face recognition.
-- Stored attendance data in a CSV file and displayed it upon student login through Tkinter GUI.
-
-### Clothing Website Data Scraping and CNN Model Development  
-![Web Scraping](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
-**Technologies:** Python, Selenium, CNN, NumPy, Pandas  
-- Utilized Selenium to scrape data from a clothing website, extracting prices and ratings of various garments.
-- Preprocessed the dataset by dividing it by brand and price, handling null values, and filling missing ratings.
-- Developed a Convolutional Neural Network (CNN) model to analyze images and predict prices and ratings of clothing items.
-- Implemented normalization of prices and ratings using StandardScaler to improve model performance.
-
-## Technical Skills
-**Languages:**  
-- R, Python, Java, JavaScript, C/C++
-
-**Frameworks/Libraries:**  
-- React.js, Express.js, Flask, Django, TensorFlow, PyTorch, jQuery, Bootstrap, Node.js, EJS, NumPy, Pandas, Matplotlib
-
-**Databases/Tools:**  
-- MySQL, MongoDB, Git
-
-**Concepts:**  
-- Operating System, Computer Networks, Data Structures, Algorithms, Artificial Intelligence, Machine Learning, Deep Learning, Data Analysis
-
-## Certifications and Achievements
-- **Python Course Certificate (Google, Michigan University):** Data Collection using Python.
-- **Using Python to Interact with the Operating System (Google):** Python programming, operating system interaction.
-- **Java Programming: Solving Problems with Software (Duke University):** Java programming, problem-solving.
-- **Udemy Full Stack Course Completion:** Full-stack development.
-- **Hackathons:** Participated in COSC HacktoberFest 2023, Flipr WebD Hackathon, and TechGig ML Hackathon.
-- **Google Cloud Computing Foundations Certification:** Cloud computing.
-- **HackerRank (5-star):** Achieved 5-star rating for Python coding on HackerRank.
-- **CodeChef (3-star):** Achieved 3-star rating for competitive coding on Codechef.
-- **LeetCode (1672-Rating, 700 Problems Solved):** Achieved 1672 rating for competitive coding on LeetCode and solved over 700 problems.
-
-## Contact
-- **Phone:** 6300545278
-- **Email:** gopiprashanthraju@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/gopiprashanthraju/)
-- **GitHub:** [GitHub Profile](https://github.com/gopiprashanthraju)
-- **LeetCode:** [LeetCode Profile](https://leetcode.com/gopiprashanthraju/)
-
-Feel free to reach out to me for collaborations, project discussions, or any interesting opportunities!
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+            <td align="center" width="96">
+        <img
