@@ -76,7 +76,7 @@ Nov 2021 - May 2025
 - **Google Cloud Computing Foundations Certification:** Cloud computing. ☁️
 - **HackerRank (5-star):** Achieved 5-star rating for Python coding on HackerRank. ⭐
 - **CodeChef (3-star):** Achieved 3-star rating for competitive coding on Codechef. ⭐⭐⭐
-- **LeetCode (1672-Rating, 700 Problems Solved):** Achieved 1672 rating for competitive coding on LeetCode and solved over 700 problems. 🏅
+- **LeetCode (1881-Rating, 700 Problems Solved):** Achieved 1672 rating for competitive coding on LeetCode and solved over 700 problems. 🏅
 
 ## Contact
 📞 **Phone:** 6300545278  
