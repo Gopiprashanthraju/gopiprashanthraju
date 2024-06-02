@@ -6,7 +6,7 @@ I'm Gopi Prashanth Raju, an enthusiastic and driven software engineering student
 [![GitHub followers](https://img.shields.io/github/followers/gopiprashanthraju?label=Follow&style=social)](https://github.com/gopiprashanthraju)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gopiprashanthraju/)
 
-![Coding]([https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg]))
+![Coding](https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg)
 
 ## Education
 **Chaitanya Bharathi Institute of Technology**  
