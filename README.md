@@ -115,8 +115,11 @@ Nov 2021 - May 2025
 - **LeetCode (1881-Rating, 700 Problems Solved):** Achieved 1672 rating for competitive coding on LeetCode and solved over 700 problems. 🏅
 
 ## Contact
+
 📞 **Phone:** 6300545278  
 📧 **Email:** gopiprashanthraju@gmail.com  
-🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/gopiprashanthraju/)  
-🐙 **GitHub:** [GitHub Profile](https://github.com/gopiprashanthraju)  
-💻 **LeetCode:** [LeetCode Profile](https://leetcode.com/gopiprashanthraju/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gopiprashanthraju/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=social&logo=github)](https://github.com/gopiprashanthraju)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-red?style=social&logo=leetcode)](https://leetcode.com/gopiprashanthraju/)
+
