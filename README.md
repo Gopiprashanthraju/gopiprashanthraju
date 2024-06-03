@@ -9,7 +9,7 @@ I'm Gopi Prashanth Raju, an enthusiastic and driven software engineering student
 </div>
 
 <div align="center">
-  <img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" alt="Coding" width="400" height="400" style="border-radius: 30px;" />
+  <img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" alt="Coding"/>
 </div>
 
 <h3>Things I code with</h3>
