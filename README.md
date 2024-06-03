@@ -58,7 +58,7 @@ Nov 2021 - May 2025
 ## Projects
 ### MERN Stack Website - VoyageMate  
 <div align="center">
-  <img src="https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/03/24/2a/train-trips_ss_003.rend.hgtvcom.616.462.suffix/1491592669668.jpeg" alt="MERN Stack" width="400" height="400" style="border-radius: 15px;"  />
+  <img src="https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/03/24/2a/train-trips_ss_003.rend.hgtvcom.616.462.suffix/1491592669668.jpeg" alt="MERN Stack" width="400" height="400" style="border-radius: 30px;"  />
 </div>
 
 **Technologies:** MongoDB, Express.js, React, Node.js  
@@ -70,7 +70,7 @@ Nov 2021 - May 2025
 
 ### Automatic Class Attendance Tkinter App  
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yO4jEF_aUERDnHOrD6UNXDXxSxLqLxST0g&s" alt="Face Recognition" width="400" height="400" style="border-radius: 15px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yO4jEF_aUERDnHOrD6UNXDXxSxLqLxST0g&s" alt="Face Recognition" width="400" height="400" style="border-radius: 30px;" />
 </div>
 
 **Technologies:** Python, Tkinter, Face Recognition, CSV  
@@ -82,7 +82,7 @@ Nov 2021 - May 2025
 
 ### Clothing Website Data Scraping and CNN Model Development  
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/shopping-cart-with-bags-gifts-concept-illustration_114360-18775.jpg" alt="Web Scraping" width="400" height="400" style="border-radius: 15px;" />
+  <img src="https://img.freepik.com/free-vector/shopping-cart-with-bags-gifts-concept-illustration_114360-18775.jpg" alt="Web Scraping" width="400" height="400" style="border-radius: 30px;" />
 </div>
 
 **Technologies:** Python, Selenium, CNN, NumPy, Pandas  
