@@ -103,8 +103,20 @@ Nov 2021 - May 2025
 
 🧠 **Concepts:**  
 - Operating System, Computer Networks, Data Structures, Algorithms, Artificial Intelligence, Machine Learning, Deep Learning, Data Analysis
-
 ## Certifications and Achievements
 - **Python Course Certificate (Google, Michigan University):** Data Collection using Python. 🐍
 - **Using Python to Interact with the Operating System (Google):** Python programming, operating system interaction. 💻
-- **Java Programming: Solving Problems
+- **Java Programming: Solving Problems with Software (Duke University):** Java programming, problem-solving. ☕
+- **Udemy Full Stack Course Completion:** Full-stack development. 🖥️
+- **Hackathons:** Participated in COSC HacktoberFest 2023, Flipr WebD Hackathon, and TechGig ML Hackathon. 🏆
+- **Google Cloud Computing Foundations Certification:** Cloud computing. ☁️
+- **HackerRank (5-star):** Achieved 5-star rating for Python coding on HackerRank. ⭐
+- **CodeChef (3-star):** Achieved 3-star rating for competitive coding on Codechef. ⭐⭐⭐
+- **LeetCode (1881-Rating, 700 Problems Solved):** Achieved 1672 rating for competitive coding on LeetCode and solved over 700 problems. 🏅
+
+## Contact
+📞 **Phone:** 6300545278  
+📧 **Email:** gopiprashanthraju@gmail.com  
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/gopiprashanthraju/)  
+🐙 **GitHub:** [GitHub Profile](https://github.com/gopiprashanthraju)  
+💻 **LeetCode:** [LeetCode Profile](https://leetcode.com/gopiprashanthraju/)
