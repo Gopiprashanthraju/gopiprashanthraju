@@ -9,7 +9,7 @@ I'm Gopi Prashanth Raju, an enthusiastic and driven software engineering student
 </div>
 
 <div align="center">
-  <img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" alt="Coding" />
+  <img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" alt="Coding" width="400" height="400" style="border-radius: 30px;" />
 </div>
 
 <h3>Things I code with</h3>
@@ -58,7 +58,7 @@ Nov 2021 - May 2025
 ## Projects
 ### MERN Stack Website - VoyageMate  
 <div align="center">
-  <img src="https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/03/24/2a/train-trips_ss_003.rend.hgtvcom.616.462.suffix/1491592669668.jpeg" alt="MERN Stack" width="400" height="400" style="border-radius: 30px;"  />
+  <img src="https://travel.home.sndimg.com/content/dam/images/travel/fullset/2013/03/24/2a/train-trips_ss_003.rend.hgtvcom.616.462.suffix/1491592669668.jpeg" alt="MERN Stack" width="400" height="400" style="border-radius: 30px;" />
 </div>
 
 **Technologies:** MongoDB, Express.js, React, Node.js  
