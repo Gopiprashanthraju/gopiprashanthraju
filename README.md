@@ -121,5 +121,5 @@ Nov 2021 - May 2025
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gopiprashanthraju/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=social&logo=github)](https://github.com/gopiprashanthraju)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-red?style=social&logo=leetcode)](https://leetcode.com/gopiprashanthraju/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-red?style=social&logo=leetcode)](https://leetcode.com/morampudi_gopi_prashanth_raju/)
 
