@@ -51,7 +51,7 @@ Nov 2021 - May 2025
 - Machine Learning 🤖
 - Data Analysis 📉
 - SQL 🗃️
-- HTML, CSS, JavaScript 💻
+- HTML, CSS, Bootstrap,JavaScript 💻
 - MERN Stack 🛠️
 - NumPy, Pandas 🐼
 
